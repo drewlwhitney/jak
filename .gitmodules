@@ -1,9 +1,9 @@
-[submodule "MX_V2"]
-	path = MX_V2
-	url = https://github.com/ai03-2725/MX_V2.git
-[submodule "kbd"]
-	path = kbd
+[submodule "pcb/libraries/kbd"]
+	path = pcb/libraries/kbd
 	url = https://github.com/foostan/kbd.git
-[submodule "Kicad-Footprints"]
-	path = Kicad-Footprints
+[submodule "pcb/libraries/Kicad-Footprints"]
+	path = pcb/libraries/Kicad-Footprints
 	url = https://github.com/davidphilipbarr/Kicad-Footprints.git
+[submodule "pcb/libraries/MX_V2"]
+	path = pcb/libraries/MX_V2
+	url = https://github.com/ai03-2725/MX_V2.git

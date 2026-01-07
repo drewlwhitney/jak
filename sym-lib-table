@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/kbd/kicad-symbols/kbd.kicad_sym")(options "")(descr ""))
-  (lib (name "USB4505-03-0-A_REVA")(type "KiCad")(uri "${KIPRJMOD}/USB4505-03-0-A_REVA/USB4505-03-0-A_REVA.kicad_sym")(options "")(descr ""))
-)

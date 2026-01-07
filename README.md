@@ -13,14 +13,19 @@ It's Just Another Keyboard that amalgamates the [Corne](github.com/foostan/crkbd
 ## Links (temp)
 - `USB-C Connector` - https://www.digikey.com/en/products/detail/gct/USB4505-03-0-A/15283201
 
-## Views in KiCad
-### PCB
+## PCB
 ![front_kicad](./images/front_kicad.png)
 <sub>PCB front</sub>
 
 ![back_kicad](./images/back_kicad.png)
 <sub>PCB back</sub>
 
-### Switch Plate
+## Switch Plate
+Can be found [here](./switch-plate/).
 ![switch-plate_kicad](./images/switch-plate_kicad.png)
 <sub>Switch plate (mirrored on other side)</sub>
+
+## 3D Print Case
+[Left](./case/case-left.step) and [right](./case/case-right.step) case files.
+![case_onshape](./images/case_onshape.png)
+<sub>Includes a gap for the power switch at the top, holes for the side USB-C ports, and M2 screw receivers</sub>

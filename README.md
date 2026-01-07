@@ -26,6 +26,6 @@ Can be found [here](./switch-plate/).
 <sub>Switch plate (mirrored on other side)</sub>
 
 ## 3D Print Case
-[Left](./case/case-left.step) and [right](./case/case-right.step) case files.
+[Left](./case/case-left.step) and [right](./case/case-right.step) case files can be found [here](./case/).
 ![case_onshape](./images/case_onshape.png)
 <sub>Includes a gap for the power switch at the top, holes for the side USB-C ports, and M2 screw receivers</sub>

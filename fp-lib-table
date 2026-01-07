@@ -4,4 +4,5 @@
   (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
   (lib (name "Gateron_KS33_Hotswap")(type "KiCad")(uri "${KIPRJMOD}/MX_V2/Gateron_KS33_Hotswap.pretty")(options "")(descr ""))
   (lib (name "Kicad-Footprints")(type "KiCad")(uri "${KIPRJMOD}/Kicad-Footprints")(options "")(descr ""))
+  (lib (name "USB4505-03-0-A_REVA")(type "KiCad")(uri "${KIPRJMOD}/USB4505-03-0-A_REVA")(options "")(descr ""))
 )

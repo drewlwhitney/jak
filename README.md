@@ -10,6 +10,9 @@ It's Just Another Keyboard that amalgamates the [Corne](github.com/foostan/crkbd
 
 ***\*Build instructions (and a ZMK module + possibly a QMK addition) coming in a few weeks when I get the board.***
 
+## Links (temp)
+- `USB-C Connector` - https://www.digikey.com/en/products/detail/gct/USB4505-03-0-A/15283201
+
 ## Views in KiCad
 ### PCB
 ![front_kicad](./images/front_kicad.png)

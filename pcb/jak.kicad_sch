@@ -5739,7 +5739,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "project:2-pin-jst"
+		(property "Footprint" "jak:2-pin-jst"
 			(at 167.64 152.4 0)
 			(effects
 				(font
@@ -9663,7 +9663,7 @@
 		(fields_autoplaced yes)
 		(uuid "839cbfbd-b6aa-4637-acde-64b2d6b0a2c9")
 		(property "Reference" "controller1"
-			(at 38.1 15.24 0)
+			(at 38.1 12.7 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -9671,7 +9671,7 @@
 			)
 		)
 		(property "Value" "ProMicro"
-			(at 38.1 17.78 0)
+			(at 38.1 15.24 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -9679,12 +9679,11 @@
 			)
 		)
 		(property "Footprint" "kbd:ProMicro"
-			(at 40.64 63.5 0)
+			(at 38.1 17.78 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
@@ -10821,7 +10820,7 @@
 		(fields_autoplaced yes)
 		(uuid "9a1e2161-b60c-4f0a-9a6c-1f54cb3d72de")
 		(property "Reference" "controller_r1"
-			(at 256.54 13.97 0)
+			(at 256.54 11.43 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -10829,7 +10828,7 @@
 			)
 		)
 		(property "Value" "ProMicro"
-			(at 256.54 16.51 0)
+			(at 256.54 13.97 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -10837,12 +10836,11 @@
 			)
 		)
 		(property "Footprint" "kbd:ProMicro"
-			(at 259.08 62.23 0)
+			(at 256.54 16.51 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
@@ -12369,7 +12367,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "project:2-pin-jst"
+		(property "Footprint" "jak:2-pin-jst"
 			(at 67.31 175.26 0)
 			(effects
 				(font
@@ -13247,7 +13245,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "project:2-pin-jst"
+		(property "Footprint" "jak:2-pin-jst"
 			(at 167.64 163.83 0)
 			(effects
 				(font
@@ -14033,7 +14031,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "project:2-pin-jst"
+		(property "Footprint" "jak:2-pin-jst"
 			(at 67.31 162.56 0)
 			(effects
 				(font

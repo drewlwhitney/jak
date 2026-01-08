@@ -1,4 +1,4 @@
-26877218791448213
+26875461585070090
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106553,6 +106553,13 @@ Varistor VF
 0
 2
 2
+jak
+2-pin-jst
+
+S2B-PH-K-SLFSN 
+0
+2
+2
 kbd
 Breakaway_Tabs
 
@@ -106763,17 +106770,3 @@ keyswitch_hole
 0
 0
 0
-project
-2-pin-jst
-
-S2B-PH-K-SLFSN 
-0
-2
-2
-project
-CONN_USB4505_GCT
-
-USB4505-03-0-A 
-0
-16
-16

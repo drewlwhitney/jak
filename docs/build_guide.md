@@ -36,7 +36,7 @@ Buy these components in addition to those in the [`General`](#general) section f
 - 2x [JST Connectors](https://typeractive.xyz/products/battery-jack) for batteries
 
 - 2x Lithium Batteries
-    - The [301230 110mAh Battery](https://typeractive.xyz/products/lithium-battery-110mah) with a JST connector fits well under the nice!nano with the above sockets and headers.
+    - The [301230 110mAh Battery](https://typeractive.xyz/products/lithium-battery-110mah) with a short JST connector fits well under the nice!nano with the above sockets and headers.
     - Otherwise, you can use a larger battery on the underside of the PCB, such as [this one](https://typeractive.xyz/products/lithium-battery-750mah).
 - 2x [Power Switches](https://typeractive.xyz/products/power-switch)
 

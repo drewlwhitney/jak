@@ -31,7 +31,7 @@ The provided links are components I know work, but feel free to use any other se
 ### Wireless-Specific
 Buy these components in addition to those in the [`General`](#general) section for wireless builds:
 
-- 2x [nice!nanos](https://typeractive.xyz/products/nice-nano) (*which serve as the Pro Micro Controllers*)
+- 2x [nice!nanos](https://typeractive.xyz/products/nice-nano) (*which replace the Pro Micro controllers*)
 
 - 2x [JST Connectors](https://typeractive.xyz/products/battery-jack) for batteries
 

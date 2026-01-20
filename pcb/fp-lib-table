@@ -5,4 +5,7 @@
   (lib (name "Gateron_KS33_Hotswap")(type "KiCad")(uri "${KIPRJMOD}/MX_V2/Gateron_KS33_Hotswap.pretty")(options "")(descr ""))
   (lib (name "Kicad-Footprints")(type "KiCad")(uri "${KIPRJMOD}/Kicad-Footprints")(options "")(descr ""))
   (lib (name "USB4505-03-0-A_REVA")(type "KiCad")(uri "${KIPRJMOD}/USB4505-03-0-A_REVA")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/PTS526_SM15_SMTR2_LFS/footprints.pretty")(options "")(descr ""))
+  (lib (name "PCM12SMTR")(type "KiCad")(uri "${KIPRJMOD}/PCM12SMTR")(options "")(descr ""))
+  (lib (name "S2B-PH-K-S_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/S2B-PH-K-S_LF__SN_")(options "")(descr ""))
 )

@@ -11,7 +11,7 @@ This was written on January 23, 2026 for [JLCPCB](https://jlcpcb.com/).
 
 If using the left and right switch plates, you'll need two sets of Gerber files: one for the [left](./switch-plate-left/gerbers/) and one for the [right](./switch-plate-right/gerbers/). If using the reversible switch plate, you only need [this one](./switch-plate-safe/gerbers/).
 
-Upload the [PCB Gerber Files (.zip)](./gerber_to_order/) to [JLCPCB](https://cart.jlcpcb.com/quote), then leave everything as-is except for:
+Upload the Gerber files (.zip) to [JLCPCB](https://cart.jlcpcb.com/quote), then leave everything as-is except for:
 
 | Option | Value |
 | -- | -- |

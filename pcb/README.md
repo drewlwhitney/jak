@@ -1,16 +1,16 @@
 ## PCB
 The PCB is a one-sided and is designed for Gateron KS-33 Low Profile Switches with hotswap sockets.
 
-![front_kicad](../images/front_kicad.png)
+![front](../images/front_kicad.png)
 <sub>Front</sub>
 
-![back_kicad](../images/back_kicad.png)
+![back](../images/back_kicad.png)
 <sub>Back</sub>
 
 ## Ordering
 This was written on January 7, 2026 for [JLCPCB](https://jlcpcb.com/).
 
-Upload the [PCB Gerber Files (.zip)](./gerber_to_order/) to [JLCPCB](https://cart.jlcpcb.com/quote), then leave everything as-is except for:
+Upload the [PCB Gerber Files (.zip)](./gerbers/) to [JLCPCB](https://cart.jlcpcb.com/quote), then leave everything as-is except for:
 
 | Option | Value |
 | -- | -- |

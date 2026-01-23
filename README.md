@@ -6,7 +6,7 @@ It's Just Another Keyboard that amalgamates the [Corne](github.com/foostan/crkbd
 **Notable Features:**
 - Designed for [Gateron KS-33 Low Profile Switches](https://www.gateron.co/products/gateron-low-profile-mechanical-switch-set) with hotswap sockets
 
-- Seeed Studio XIAO (including the `XIAO BLE` for wireless builds)
+- [Seeed Studio XIAO](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) support (including the `XIAO BLE` for wireless builds)
 
 - 2-pin JST connector for the battery in wireless builds
 

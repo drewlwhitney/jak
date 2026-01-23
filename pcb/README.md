@@ -1,5 +1,5 @@
 ## PCB
-The PCB is a one-sided and is designed for Gateron KS-33 Low Profile Switches with hotswap sockets.
+The PCB is non-reversible and is designed for Gateron KS-33 Low Profile Switches with hotswap sockets.
 
 ![front](../images/front_kicad.png)
 <sub>Front</sub>

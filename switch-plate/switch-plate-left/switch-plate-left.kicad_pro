@@ -269,7 +269,7 @@
       "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "switch-plate-left.step",
+      "step": "../../../switch-plate-left.step",
       "svg": "",
       "vrml": ""
     },

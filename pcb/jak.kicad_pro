@@ -506,7 +506,7 @@
       "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../jak.step",
+      "step": "../../jak.step",
       "svg": "",
       "vrml": ""
     },

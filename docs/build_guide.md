@@ -50,3 +50,4 @@ Buy these components in addition to those in the [`General`](#general) section f
 - For wireless builds:
     - Ensure the polarity of your batteries matches the markings on the PCB. [These batteries](https://typeractive.xyz/products/lithium-battery-110mah) have the correct polarity, but there is no consistent standard for JST connectors.
 - For wired builds, solder the USB-C connectors to the bottom side of the PCB.
+- When soldering the PCB, all diodes should have the cathode on the top pad.

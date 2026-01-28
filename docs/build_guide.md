@@ -22,7 +22,7 @@ The provided links are components I know work, but feel free to use any other se
 - [Switch Plates](../switch-plate/)
 
 - (optional) 1x [3D Printable Case](../case/) (left and right)
-    - If using the case, you'll also want 8x [TODO]mm M2 screws
+    - If using the case, you'll also want 8x 10mm M2 screws for the wireless version or 8x 8mm M2 screws for the wired version.
 
 <br>
 

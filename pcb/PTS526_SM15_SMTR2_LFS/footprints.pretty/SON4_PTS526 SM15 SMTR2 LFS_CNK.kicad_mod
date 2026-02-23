@@ -529,22 +529,22 @@
 		(uuid "cc2a3438-851a-4cd6-b5a9-082452be4644")
 	)
 	(pad "2" smd rect
+		(at 3.180349 -1.849999)
+		(size 0.9505 0.5588)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d9ea5784-9cc3-4bb4-b9ba-1d8a671a912c")
+	)
+	(pad "3" smd rect
 		(at -3.180349 1.849999)
 		(size 0.9505 0.5588)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "a87f8be2-f5b3-47d3-9f4b-bf90fa7a4e04")
 	)
-	(pad "3" smd rect
+	(pad "4" smd rect
 		(at 3.180349 1.849999)
 		(size 0.9505 0.5588)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "b2460f17-9663-4bc9-a1de-4da21c0c95ab")
-	)
-	(pad "4" smd rect
-		(at 3.180349 -1.849999)
-		(size 0.9505 0.5588)
-		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "d9ea5784-9cc3-4bb4-b9ba-1d8a671a912c")
 	)
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/PTS526_SM15_SMTR2_LFS/PTS526SM15SMTR2LFS.stp"

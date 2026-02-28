@@ -609,12 +609,13 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Connector Header Through Hole, Right Angle 2 position"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify bottom)
 					(hide yes)
 				)
 			)
@@ -729,16 +730,6 @@
 				)
 			)
 			(property "AVAILABILITY" "Unavailable"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "DESCRIPTION" "Connector Header Through Hole, Right Angle 2 position"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2788,6 +2779,10 @@
 		(uuid "0b1c4f29-8c3c-4704-ab23-1b7703fbd1a9")
 	)
 	(no_connect
+		(at 49.53 187.96)
+		(uuid "11cc4f0a-0a0c-4e25-a817-a597bb8b7563")
+	)
+	(no_connect
 		(at 294.64 26.67)
 		(uuid "2dfcccb0-aaaa-4efd-9ace-ab4cfef33884")
 	)
@@ -2812,10 +2807,6 @@
 		(uuid "911ea48d-990d-409d-9b1e-24279c36bc6c")
 	)
 	(no_connect
-		(at 49.53 182.88)
-		(uuid "98e6baa5-7f0c-4f14-a1aa-3b7be8e73f67")
-	)
-	(no_connect
 		(at 386.08 36.83)
 		(uuid "9a86d52f-3302-4146-a00b-a1bcc1e9bf8a")
 	)
@@ -2832,12 +2823,12 @@
 		(uuid "bdb52559-f582-4428-b062-bb9290a196d6")
 	)
 	(no_connect
-		(at 306.07 190.5)
-		(uuid "c084d705-d7c6-421e-8f58-16f893d394ea")
-	)
-	(no_connect
 		(at 364.49 25.4)
 		(uuid "cd8b18cd-b234-40c2-a93c-5ac4b832f14a")
+	)
+	(no_connect
+		(at 306.07 185.42)
+		(uuid "cf164223-e1e6-4011-908e-6fd8e947cbd3")
 	)
 	(no_connect
 		(at 373.38 69.85)
@@ -4431,6 +4422,28 @@
 			)
 		)
 	)
+	(global_label "battery_switched"
+		(shape input)
+		(at 49.53 182.88 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0a622260-e001-46fc-a9df-f2482523a5cc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 60.6794 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "col4_r"
 		(shape input)
 		(at 386.08 48.26 0)
@@ -4695,6 +4708,28 @@
 			)
 		)
 	)
+	(global_label "battery_switched_r"
+		(shape input)
+		(at 306.07 190.5 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "38a3ff4d-e3b6-49db-814b-95d305a8c85b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 298.0653 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "col3_r"
 		(shape input)
 		(at 304.8 96.52 90)
@@ -4840,28 +4875,6 @@
 		(uuid "468eebeb-3b8d-45e6-ba6f-aa7c211082d9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 377.5142 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "battery_switched_r"
-		(shape input)
-		(at 316.23 187.96 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4d83343d-20a6-4252-bc45-eadf177b6cca")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 324.2347 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5025,50 +5038,6 @@
 			)
 		)
 	)
-	(global_label "battery+"
-		(shape input)
-		(at 49.53 187.96 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "719ff4e0-0183-489a-b760-51c9e228d3fb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 68.2389 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "battery_switched"
-		(shape input)
-		(at 39.37 185.42 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "72c2c737-4d60-4f13-ac15-fb9eac8243df")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 28.2206 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "col2"
 		(shape input)
 		(at 83.82 92.71 90)
@@ -5087,28 +5056,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "battery+_r"
-		(shape input)
-		(at 306.07 185.42 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "896b5f40-b8fc-452b-b0c2-3b77ad50f163")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 285.6073 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -5302,6 +5249,28 @@
 		(uuid "bc6ed12a-cc98-4dc4-a8d5-3498beda52c5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 23.0196 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "battery+"
+		(shape input)
+		(at 39.37 185.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bdca62b3-82ae-4e01-8dce-e392110a5c3c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.2206 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5588,6 +5557,28 @@
 		(uuid "e4b8d959-a41d-4970-b58e-9db1b6a72256")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 353.06 87.6687 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "battery+_r"
+		(shape input)
+		(at 316.23 187.96 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ed8a2db9-6e70-41fe-805b-3dda5b54fcac")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 336.6927 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)

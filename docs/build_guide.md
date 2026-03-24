@@ -1,8 +1,10 @@
 # Build Guide
-Building a keyboard like this consists of purchasing components, soldering the components, installing switches and keycaps, and possibly assembling the case. For walk-throughs, refer to the [wireless Corne guide](https://docs.typeractive.xyz/build-guides/corne-wireless) (which is not a one-to-one guide for this keyboard, but has some useful tutorials).
+This is not a full build guide. I've provided a [bill of materials](#bill-of-materials) and some links to general keyboard building guides. This is not a simple build, so some soldering experience (especially surface-mount soldering) is required. You will need to reference the [PCB](../pcb/) to know which components go where.
+
+Building a keyboard like this consists of purchasing components, soldering the components, installing switches and keycaps, and possibly assembling the case. For general walk-throughs, refer to the [wireless Corne guide](https://docs.typeractive.xyz/build-guides/corne-wireless) (which is not a one-to-one guide for this keyboard, but has some useful tutorials).
 
 ## Bill of Materials
-The provided links are components I know work, but feel free to use any other sellers/compatible components.
+The provided links are for components that I know work, but feel free to use any other sellers/compatible components.
 
 ### General
 - 1x [PCB Set](../pcb/)
@@ -22,7 +24,7 @@ The provided links are components I know work, but feel free to use any other se
 - [Switch Plates](../switch-plate/)
 
 - (optional) 1x [3D Printable Case](../case/) (left and right)
-    - If using the case, you'll also want 8x 10mm M2 screws for the wireless version or 8x 8mm M2 screws for the wired version.
+    - If using the case, you'll also want 8x 8mm M2 screws.
 
 <br>
 
@@ -38,6 +40,7 @@ Buy these components in addition to those in the [`General`](#general) section f
 - 2x Lithium Batteries
     - The [301230 110mAh Battery](https://typeractive.xyz/products/lithium-battery-110mah) is good for lighter boards if you don't need the battery life to last longer than a week.
     - Otherwise, you can use a larger battery, such as [this one](https://typeractive.xyz/products/lithium-battery-750mah).
+
 - 2x [Power Switches](https://typeractive.xyz/products/power-switch)
 
 
@@ -49,5 +52,4 @@ Buy these components in addition to those in the [`General`](#general) section f
 ## Notes
 - For wireless builds:
     - Ensure the polarity of your batteries matches the markings on the PCB. [These batteries](https://typeractive.xyz/products/lithium-battery-110mah) have the correct polarity, but there is no consistent standard for JST connectors.
-- For wired builds, solder the USB-C connectors to the bottom side of the PCB.
 - When soldering the PCB, all diodes should have the cathode on the top pad.

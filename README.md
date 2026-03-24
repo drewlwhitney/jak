@@ -10,9 +10,9 @@ It's Just Another Keyboard that amalgamates the [Corne](github.com/foostan/crkbd
 
 - 2-pin JST connector for the battery in wireless builds
 
-- USB-C full duplex USART communication for wired builds. None of that [TRRS nonesense](https://gabevenberg.com/posts/stop-using-trrs/)!
+- USB-C full duplex USART communication[^1] for wired builds. None of that [TRRS nonesense](https://gabevenberg.com/posts/stop-using-trrs/)!
 
-- A [switch plate](./switch-plate/) you can order with the PCB
+- [switch plate](./switch-plate/) you can order with the PCB
 
 - [3D printable case](./case/) that exactly fits the board with a battery or USB-C connectors
 
@@ -21,3 +21,5 @@ Refer to the [`Build Guide`](./docs/build_guide.md).
 
 ## Firmware Guide
 [**COMING SOON WHEN I GET THE BOARD**]
+
+[^1]: At the moment, the wired connection is untested. I have only built the bluetooth version.

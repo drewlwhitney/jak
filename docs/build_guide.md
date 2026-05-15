@@ -52,4 +52,8 @@ Buy these components in addition to those in the [`General`](#general) section f
 ## Notes
 - For wireless builds:
     - Ensure the polarity of your batteries matches the markings on the PCB. [These batteries](https://typeractive.xyz/products/lithium-battery-110mah) have the correct polarity, but there is no consistent standard for JST connectors.
+
 - When soldering the PCB, all diodes should have the cathode on the top pad.
+
+- Before mounting the switches, make sure you solder the pads on the back of the microcontroller (there are holes in the PCB and wall-lining copper for solder to adhere to). These are for the reset button.
+    - For wireless builds, there are also extra pads for the battery terminals.

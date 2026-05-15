@@ -9,7 +9,7 @@ Wired | Wireless
 ## Notable Features
 - Designed for [Gateron KS-33 Low Profile Switches](https://www.gateron.co/products/gateron-low-profile-mechanical-switch-set) with hotswap sockets
 
-- Uses the Seeed Studio XIAO microcontroller with either the [`RP2040`](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) variant (for wired builds) or the [`XIAO-BLE`](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) variant (for wireless builds)
+- Uses the [Seeed Studio XIAO microcontroller](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) with either the [`RP2040`](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) variant (for wired builds) or the [`XIAO-BLE`](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) variant (for wireless builds)
 
 - 2-pin JST connector for the battery in wireless builds
 

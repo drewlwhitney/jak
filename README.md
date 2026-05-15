@@ -1,12 +1,10 @@
 # Just Another Keyboard
 It's Just Another Keyboard that amalgamates the [Corne](github.com/foostan/crkbd), [Ferris Sweep](https://github.com/davidphilipbarr/Sweep), and [Fifi](https://github.com/raychengy/fifi_split_keeb).
 
-![wireless_physical](./images/wireless-physical.jpg)
-<sub>Fully assembled wireless version with [keycaps from Nuphy](https://nuphy.com/collections/keycaps/products/coast-dawn-nsa)</sub>
-
-
-![wired_physical](./images/wired-physical.jpg)
-<sub>Fully assembled wired version, using the same keycaps as above</sub>
+Wired | Wireless
+-|-
+![wired_physical](./images/wired-physical.jpg) | ![wireless_physical](./images/wireless-physical.jpg)
+<sub>Fully assembled wired version with keycaps from Nuphy</sub> | <sub>Fully assembled wireless version
 
 ## Notable Features
 - Designed for [Gateron KS-33 Low Profile Switches](https://www.gateron.co/products/gateron-low-profile-mechanical-switch-set) with hotswap sockets
